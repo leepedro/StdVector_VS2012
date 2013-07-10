@@ -32,7 +32,7 @@ namespace Imaging
 	template <typename T>
 	Array<T> &Array<T>::operator=(const Array<T> &src)
 	{
-		std::vector<T>::operator=(src);
+		this->std::vector<T>::operator=(src);
 		return *this;
 	}
 
