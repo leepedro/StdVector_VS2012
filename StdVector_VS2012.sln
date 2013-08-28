@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Capacity", "Capacity\Capaci
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Resize", "Resize\Resize.vcxproj", "{0E34DA4C-9865-4729-A62C-6689047224CB}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Constructors", "Constructors\Constructors.vcxproj", "{23092390-4283-4DDD-8BC0-5228C40CDEAC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -31,6 +33,10 @@ Global
 		{0E34DA4C-9865-4729-A62C-6689047224CB}.Debug|Win32.Build.0 = Debug|Win32
 		{0E34DA4C-9865-4729-A62C-6689047224CB}.Release|Win32.ActiveCfg = Release|Win32
 		{0E34DA4C-9865-4729-A62C-6689047224CB}.Release|Win32.Build.0 = Release|Win32
+		{23092390-4283-4DDD-8BC0-5228C40CDEAC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{23092390-4283-4DDD-8BC0-5228C40CDEAC}.Debug|Win32.Build.0 = Debug|Win32
+		{23092390-4283-4DDD-8BC0-5228C40CDEAC}.Release|Win32.ActiveCfg = Release|Win32
+		{23092390-4283-4DDD-8BC0-5228C40CDEAC}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
